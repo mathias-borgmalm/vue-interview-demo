@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    background-color: #e5dbff;
+    color: #212529;
+    display: flex;
+    padding: 2rem;
+    justify-content: center;
+    height: 100vh;
+    font-family: system-ui, sans-serif;
+    font-size: 1.6rem;
+    overflow: hidden;
+}
+
+img {
+    max-width: 100%;
+}

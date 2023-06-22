@@ -1,7 +1,7 @@
 # Cat Browser (Code Review Project)
 Hi! This is a small project containing some code for a hypothetical web app called Cat Browser. It simply allows the user to click on a cat name, and then see a picture of the cat and read a random cat fact (the cat fact comes from a external public API).
 
-The project is written in **Vue 2** and was scaffolded with vue-cli.
+The project is written in **Vue 2** and was scaffolded with **Vite**.
 
 This project exists as part of the interview process for **Nexer**.
 
